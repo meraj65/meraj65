@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @meraj65
-- 👀 I’m interested in Front-End-Web-Development
-- 🌱 I’m currently learning Mastering on reactJs
-- 📫 Contact me on instagram : https://instagram.com/ansari_meraj_?utm_medium=copy_link
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently working on ASP.NET MVC and React.js 
+- 📫 Contact me on LinkedIn : https://www.linkedin.com/in/meraj-ansari-2699681b0
 
 <!---
 meraj65/meraj65 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
